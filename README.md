@@ -29,3 +29,10 @@ https://lightyear-kids.vercel.app
 ![features-browser](https://user-images.githubusercontent.com/103267235/212751140-53c13b73-2291-4af4-ba03-9291acdfd8bd.png)
 ![features-code](https://user-images.githubusercontent.com/103267235/212751144-6c531776-100a-4b7c-b701-bf1eb59e9afd.png)
 
+### Step 8
+- Add testimonials section
+- As this is only a front end application, I stored the data in a JSON file.
+![testimonials-browser](https://user-images.githubusercontent.com/103267235/212758955-c136a5f2-5408-4141-b762-3a7378059c1b.png)
+![testimonials-code](https://user-images.githubusercontent.com/103267235/212758961-1b04bddd-85b9-4ba6-9f8b-46f9c387ea7f.png)
+
+
