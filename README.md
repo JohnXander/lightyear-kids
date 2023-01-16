@@ -13,3 +13,6 @@ https://lightyear-kids.vercel.app
 ### Step 4
 - Add logo and title to header
 - The logo came from flaticon and the Poppins font came from Google Fonts
+
+### Step 5
+- Add nav links to header
