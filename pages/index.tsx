@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className='bg-red-500'>
-        main
+        Hello from Vercel
       </main>
 
       <footer>

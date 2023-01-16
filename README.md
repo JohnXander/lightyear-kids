@@ -5,3 +5,6 @@
 
 ### Step 2
 - Install and configure Tailwind CSS
+
+### Step 3
+- Deploy to Vercel
