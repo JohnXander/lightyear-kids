@@ -1,6 +1,9 @@
 import Head from 'next/head'
+import { Features } from '../src/components/features/Features'
 import { Header } from '../src/components/header/Header'
 import { Hero } from '../src/components/hero/Hero'
+import { Pricing } from '../src/components/pricing/Pricing'
+import { Testimonials } from '../src/components/testimonials/Testimonials'
 
 export default function Home() {
   return (
@@ -14,6 +17,9 @@ export default function Home() {
       <main>
         <Header />
         <Hero />
+        <Features />
+        <Testimonials />
+        <Pricing />
       </main>
 
       <footer>
