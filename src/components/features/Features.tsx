@@ -8,17 +8,13 @@ export const Features = () => {
                 An educational platform which provides online learning and educational services.
             </h2>
             <p className="text-white mt-8">
-                Lightyear Kids is a rapidly growing educational platform which provides online learning.
-                We aim to be an institution of excellence, providing educational services. Our multi-disciplinary
-                system targets the overall development of the students. Our vision is to provide high quality education at
-                economic prices. What makes us different from others is our live interactive sessions with the students.
-                Join us and become a part of a global educational revolution.
+                Our multi-disciplinary system targets the overall development of the students.
             </p>
             <Image
-                className="mt-16 rounded-lg"
+                className="mt-12 rounded-lg"
                 src={Kid}
-                width={700}
-                height={700}
+                width={500}
+                height={500}
                 alt={"Kid"}
             />
         </div>

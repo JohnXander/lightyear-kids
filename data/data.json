@@ -1,0 +1,22 @@
+{
+  "testimonials": [
+    {
+      "id": "t1",
+      "image": "https://yt3.googleusercontent.com/xGqQ7YCQmO5hFrTLIT15XKv02p7cZHo3zv0Z_m8wzC9L5YhI8Yb_wHlh-LrCBs2_pDYjmVZn6A=s900-c-k-c0x00ffffff-no-rj",
+      "name": "Riva",
+      "testimonial": "My daughter loves going to these online classes!"
+    },
+    {
+      "id": "t2",
+      "image": "https://smilequestdental.com/wp-content/uploads/2016/11/test24-4.jpg",
+      "name": "George",
+      "testimonial": "Both of my children study at LightyearKids. It's so fun and easy to use!"
+    },
+    {
+      "id": "t3",
+      "image": "https://kids.delaware.gov/wp-content/uploads/sites/192/2019/06/topic-kid.jpg",
+      "name": "Alicia",
+      "testimonial": "My favourite thing about LightyearKids is my teacher."
+    }
+  ]
+}
