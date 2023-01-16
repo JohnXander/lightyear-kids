@@ -5,7 +5,7 @@ const navLink = "cursor-pointer px-2 py-1 rounded hover:bg-gray-100"
 
 export const Header = () => {
     return (
-        <div className="border-2 flex items-center gap-8 lg:px-32 pt-8 justify-between">
+        <div className="flex items-center gap-8 lg:px-32 pt-8 justify-between">
             <div className="flex items-center gap-4">
                 <Image
                     src={Logo}
