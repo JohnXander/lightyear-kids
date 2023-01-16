@@ -24,3 +24,8 @@ https://lightyear-kids.vercel.app
 ![hero-browser](https://user-images.githubusercontent.com/103267235/212743877-527d0113-eee4-4dff-a35e-0bb88c107c22.png)
 ![hero-code](https://user-images.githubusercontent.com/103267235/212743880-43a4bd18-dd96-4481-a7f4-37b395000911.png)
 
+### Step 7
+- Add features section
+![features-browser](https://user-images.githubusercontent.com/103267235/212751140-53c13b73-2291-4af4-ba03-9291acdfd8bd.png)
+![features-code](https://user-images.githubusercontent.com/103267235/212751144-6c531776-100a-4b7c-b701-bf1eb59e9afd.png)
+
